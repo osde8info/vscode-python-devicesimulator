@@ -201,7 +201,7 @@ export const CONSTANTS = {
         ),
         WELCOME_OUTPUT_TAB: localize(
             "info.welcomeOutputTab",
-            "Welcome to the Adafruit Simulator output tab!\n\n"
+            "Welcome to the Device Simulator Express output tab!\n\n"
         ),
     },
     LABEL: {
